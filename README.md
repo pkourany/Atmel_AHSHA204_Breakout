@@ -1,10 +1,9 @@
-# ATSHA204 Breakout Repository
-Here you'll find the hardware design files for the [SparkFun ATSHA204 Breakout](https://www.sparkfun.com/products/11551). You'll also find example Arduino code, including a library for this powerful little chip.
+# ATSHA204 Breakout Repository for Spark Core
+Refer to [SparkFun ATSHA204 Breakout](https://www.sparkfun.com/products/11551) for complete set of Arduino files.
 
 ## What's here?
-In the *hardware* directory, you'll find the Eagle design files - board and schematic - as well as a pdf version of the schematic.
+A single set of library files and sample code for compiling in web IDE, Spark CLI or via local toolchain.
 
-In the *sha204_library* directory, you'll find the **ATSHA204 Arduino Library** as well as example code to demo what it can do. 
 
 ## What is the Atmel ATSHA204?
 The Atmel ATSHA204 is an optimized authentication chip that includes a 4.5Kb EEPROM. This array can be used for storage of keys, miscellaneous read/write, read-only, password or secret data, and consumption tracking. Access to the various sections of memory can be restricted in a variety of ways and then the configuration locked to prevent changes.
