@@ -1,7 +1,3 @@
-Atmel_AHSHA204_Breakout
-=======================
-- Adapted for Spark by Paul Kourany, July 2014
-
 # ATSHA204 Breakout Repository
 Here you'll find the hardware design files for the [SparkFun ATSHA204 Breakout](https://www.sparkfun.com/products/11551). You'll also find example Arduino code, including a library for this powerful little chip.
 
@@ -19,3 +15,4 @@ Here's a link to the [datasheet](http://www.atmel.com/Images/doc8740.pdf).
 
 - Jim Lindblom @ SparkFun Electronics
 
+- Adapted for Spark by Paul Kourany, July 2014
